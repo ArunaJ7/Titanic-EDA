@@ -1,6 +1,6 @@
 # Titanic-EDA
 
-Dataset: Kaggle Titanic
+-Dataset: Kaggle Titanic
 Objective: Analyze survival patterns
 Methods: Pandas, Seaborn
 Findings: First-class passengers had a 62% survival rate
